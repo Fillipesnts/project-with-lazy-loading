@@ -53,4 +53,4 @@ Este projeto foi desenvolvido para praticar:
 
 ## Deploy do Projeto 
 
-- 
+- https://fillipesnts.github.io/project-with-lazy-loading/
